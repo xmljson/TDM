@@ -1,5 +1,4 @@
 # TDM
 
-zc149352394/TDM
-
-use above or quit this shit game
+quit this shit game
+only sick fucking pedophilia left now.
