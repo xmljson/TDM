@@ -18,12 +18,10 @@ For those who have a problem with reset data upon dying
 
 For those who have a lag when you press skill log analysis
 
-[Discord](https://discord.gg/JRa7FXd)
-
 ## Prerequisite
 
 - nodejs  [here](https://nodejs.org/en/)
-- tera proxy (only support caali's atm)
+- CaaliTeraProxy
 
 ## Install
 
