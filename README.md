@@ -1,5 +1,6 @@
 
-  If you wanna use current working version, use below donate button (minimum $5). 
+  If you want to have password for current working version, use below donate button (minimum $5).
+  
   Please write an issue , if you have any problem to use it.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-ff69b4.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C6BU555NMQJD6)
