@@ -30,15 +30,11 @@ For those who have a lag when you press skill log analysis
 
 2. Uncompress TDM,
 
-   place the resulting folder in `Tera-proxy\mods\`
+   place the resulting folder in `CaaliTeraProxy\mods\`
 
 3. Double click on the file npm_install.bat in TDM folder
 
 4. Set region in config.json
-
-## Optional - module manager ui (for dev)
-
-   module manager [manager](https://github.com/Mathicha/manager)
 
 ## Functions
 
