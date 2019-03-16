@@ -1,5 +1,4 @@
-
-  If you want to have password for current working version, use below donate button (minimum $5).
+  If you want to have password for current working version [Download](https://github.com/xmljson/TDM/releases/tag/v1.8.0), use below donate button (minimum $5).
   
   Please write an issue , if you have any problem to use it.
 
