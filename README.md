@@ -20,7 +20,7 @@ For those who have a lag when you press skill log analysis
 ## Prerequisite
 
 - nodejs  [here](https://nodejs.org/en/)
-- CaaliTeraProxy
+- Caali's tera-toolbox [discord](https://discord.gg/dUNDDtw)
 
 ## Install
 
