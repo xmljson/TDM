@@ -1,4 +1,4 @@
-  If you want to have password for current working version [Download](https://tera.dvcoa.com.au:3000/download/v1.8.0), use below donate button, as I don't have time to maintain this without a outcome but shitty talk on tera proxy dev [discord](https://discord.gg/dUNDDtw).
+  If you want to have password for current working version [Download](https://tera.dvcoa.com.au:3000/download/TDM.zip), use below donate button, as I don't have time to maintain this without a outcome but shitty talk on tera proxy dev [discord](https://discord.gg/dUNDDtw).
   Please write an issue , if you have any problem after using it.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-ff69b4.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C6BU555NMQJD6)
