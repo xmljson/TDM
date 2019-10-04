@@ -5,8 +5,6 @@
 
 ![DPS](https://image.ibb.co/mpSFny/dps.jpg)
 
-![SS](https://github.com/zc149352394/DPS-Monitor/raw/master/screenshot/05.png)
-
 ## Introduction
 
 Tera DPS monitor.(TDM)
